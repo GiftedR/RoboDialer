@@ -1,0 +1,15 @@
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\bin\Debug\net6.0\Staggs_RoboDialer.exe
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\bin\Debug\net6.0\Staggs_RoboDialer.deps.json
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\bin\Debug\net6.0\Staggs_RoboDialer.runtimeconfig.json
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\bin\Debug\net6.0\Staggs_RoboDialer.dll
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\bin\Debug\net6.0\Staggs_RoboDialer.pdb
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\obj\Debug\net6.0\Staggs_RoboDialer.csproj.AssemblyReference.cache
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\obj\Debug\net6.0\Staggs_RoboDialer.GeneratedMSBuildEditorConfig.editorconfig
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\obj\Debug\net6.0\Staggs_RoboDialer.AssemblyInfoInputs.cache
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\obj\Debug\net6.0\Staggs_RoboDialer.AssemblyInfo.cs
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\obj\Debug\net6.0\Staggs_RoboDialer.csproj.CoreCompileInputs.cache
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\obj\Debug\net6.0\Staggs_RoboDialer.dll
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\obj\Debug\net6.0\refint\Staggs_RoboDialer.dll
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\obj\Debug\net6.0\Staggs_RoboDialer.pdb
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\obj\Debug\net6.0\Staggs_RoboDialer.genruntimeconfig.cache
+F:\School\Csh\Staggs_RoboDialer_Solution\Staggs_RoboDialer\obj\Debug\net6.0\ref\Staggs_RoboDialer.dll
