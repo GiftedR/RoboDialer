@@ -8,8 +8,9 @@ namespace Staggs_RoboDialer
 {
     internal class CellPhone : Phone
     {
-        public CellPhone(string CompanyName, string PhoneNumber, int NumberType) 
+        public CellPhone(string CompanyName, string PhoneNumber, int NumberType) : base(CompanyName, "+1 " + PhoneNumber, NumberType)
         {
+
         }
     }
 }
